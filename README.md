@@ -3,6 +3,7 @@
 A demonstration of a production-style CI/CD pipeline using **GitHub Actions**, featuring multi-version matrix builds, staged gating, artifact packaging, and automated metrics reporting.
 
 Built to demonstrate DevOps engineering skills for multi-platform developer toolchain environments.
+<img width="754" height="477" alt="pipeline" src="https://github.com/user-attachments/assets/95ce809e-1be0-4aef-8727-8a8afb9fa65e" />
 
 ---
 
